@@ -1,0 +1,25 @@
+body{
+    /*background-image: ;*/
+    background:url("./img/bakgraounde.jpg");
+}
+
+#clikButton{
+    width: 256px;
+    height: 256px;
+    background:url("./img/bouton_clicker.png");
+    background-size: auto;
+
+}
+
+#scoreText{
+    color: darkred;
+    font-size: 78px;
+    font-family: "Comic Sans MS";
+}
+
+#resetButton{
+    width: 256px;
+    height: 256px;
+    background:url("./img/bouton_reset.png");
+}
+
